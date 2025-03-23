@@ -2,6 +2,9 @@
 
 Bu proje, bir alışveriş merkezindeki müşterilerin segmentasyonunu gerçekleştirmek amacıyla yapılmıştır. Müşteri verileri kullanılarak, farklı müşteri grupları belirlenip, bu grupların özellikleri analiz edilmiştir. Amacımız, her bir müşteri segmentinin davranışlarını anlamak ve bu bilgileri pazarlama stratejilerine entegre etmektir.
 
+⚠️ Not
+3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
+
 ## 🔗 Kaggle Veri Seti
 [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
