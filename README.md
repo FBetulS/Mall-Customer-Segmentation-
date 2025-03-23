@@ -3,11 +3,10 @@
 Bu proje, bir alışveriş merkezindeki müşterilerin segmentasyonunu gerçekleştirmek amacıyla yapılmıştır. Müşteri verileri kullanılarak, farklı müşteri grupları belirlenip, bu grupların özellikleri analiz edilmiştir. Amacımız, her bir müşteri segmentinin davranışlarını anlamak ve bu bilgileri pazarlama stratejilerine entegre etmektir.
 
 ## 🔗 Kaggle Veri Seti
-[Mall Customer Segmentation Data](https://www.kaggle.com/datasets/shubhendra/mall-customer-segmentation-data)
+[Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ## 🔗 Hugging Face Uygulaması
-[Müşteri Segmentasyonu - Hugging Face Space](https://huggingface.co/spaces/your_space_name)
-
+[Müşteri Segmentasyonu - Hugging Face Space](https://huggingface.co/spaces/btulftma/customer-segmentation)
 ## 📊 Proje Aşamaları
 1. **Veri Yükleme**:
    - `Mall_Customers.csv` dosyası yüklenir.
